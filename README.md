@@ -28,11 +28,11 @@ The portfolio reflects my professional experience and continuous learning journe
 Below is a collection of selected projects.  
 Each project lives in its own repository and includes detailed documentation, code, and results.
 
-### <Project Name>
-**Description:** <Brief explanation of the problem, methodology, and objective>  
-**Focus Areas:** <EDA, Statistics, ML, Automation, etc.>  
-**Tech Stack:** <Python, Pandas, SQL, Scikit-learn, etc.>  
-**Repository:** <GitHub repository link>\
+### Sales predictions
+**Description:** This repository contains the development of the practical assessment for the position of Data Scientist, focused on the analysis of historical sales of different stores and products during the years 2022 and 2023.
+**Focus Areas:** Stadisticics, Time Series, ML, Clustering
+**Tech Stack:** Pandas,Kmeans, Sklearn, Statsmodels, PCA, KMeans
+**Repository:** <https://github.com/FranciscoFonseca1005/Analisis-de-Ventas.git>
 
 ---
 
