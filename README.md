@@ -34,13 +34,15 @@ Each project lives in its own repository and includes detailed documentation, co
 **Tech Stack:** Pandas,Kmeans, Sklearn, Statsmodels, PCA, KMeans
 **Repository:** <https://github.com/FranciscoFonseca1005/Analisis-de-Ventas.git>
 
+
 ### Point of sales - Web Scrapping
-**Description:** Python tool that takes a list of company names and URLs, finds publicly available store locations, and consolidates the results into a single CSV and Excel file.
-The application combines known source adapters with a conservative automatic discovery approach. It can process any URL, but only exports locations when explicit evidence is found. It does not generate or infer names, addresses, coordinates, or links.
+**Description:** Python tool that takes a list of company names and URLs, finds publicly available store locations, and consolidates the results into a single CSV and Excel file. The application combines known source adapters with conservative automatic discovery approach. It can process any URL, but only exports locations when explicit evidence is found. It does not generate or infer names, addresses, coordinates, or links.
 **Focus Areas:** Web Scrapping
 **Tech Stack:** Chromium of Playwright, Pandas, APIs
 **Repository:** <https://github.com/FranciscoFonseca1005/Points-of-sells---Web-Scrapping.git>
+
 ---
+
 
 ## Tools & Technologies
 - **Languages:** Python, R, SQL  
